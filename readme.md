@@ -1,7 +1,7 @@
-### Hi there 👋 Nice to see u.
+### Hello🙋‍♀️ 👋 Nice to see u.🐳	
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Kornkanok  Rinphon 🫀
+- ⚡ Student id: 63360132
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
@@ -46,7 +46,7 @@
 
 </P>
 
-## Devices / Manufacturers
+### Devices / Manufacturers
 <p align="left">
 <a href="#">
     <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
