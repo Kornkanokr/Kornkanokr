@@ -1,13 +1,24 @@
-## Hello🙋‍♀️ 👋 Nice to see u.🐳	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kornkanokr&hide=contribs,prs)
-- 😄 My name is: Kornkanok  Rinphon 🫀
-- ⚡ Student id: 63360132
-- 🔭 I'm currently studying on Faculty of Engineering.
+[![image](header.png)](#)
+
+- 📣 My name is: Kornkanok  Rinphon 🫀
+- 🙍‍♀️ Student id: 63360132
+- 📚 I'm currently studying on Faculty of Engineering.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Kornkanokr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/aomsin.kornkanok.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_aomsiin.x/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](kornkanok22337@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/line.svg' alt='line' height='30'>](Aaom2544)   
 
 ### 👩‍🎓👩‍💻Career interest in the future
+- Web Developer
+- Software Tester
+- IT Management & Project Management
 
 ### 💻⚙️Special interest in computer engineering
+- hardware and embedded systems
+- database systems and data engineering
+- networks and information security
+
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kornkanokr)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Developer Tech
 
 ### Frameworks 
